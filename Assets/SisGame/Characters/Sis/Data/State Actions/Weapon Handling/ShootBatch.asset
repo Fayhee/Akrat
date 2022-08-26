@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df8dcc8fb4de22c4087b662bd007aa0c, type: 3}
+  m_Name: ShootBatch
+  m_EditorClassIdentifier: 
+  action:
+    actions:
+    - {fileID: 11400000, guid: 8313ec3197265a74bac3f1f17f5a4e9e, type: 2}
+    - {fileID: 11400000, guid: 24f0c0ca4baae3a4eaaa34fb49ac42f8, type: 2}
+    - {fileID: 11400000, guid: eabf2d200b424af4ba8d681a7988deed, type: 2}
+    - {fileID: 11400000, guid: 989ad069dcea6cd4bac06897d07eeef2, type: 2}
+    - {fileID: 11400000, guid: 322389286c4e19e4eb718e7b32fcb311, type: 2}
+    - {fileID: 11400000, guid: e96ade80c93983b4490cb888702e2e7e, type: 2}
+    - {fileID: 11400000, guid: c2feef12f6141e043bc03b173cc887f2, type: 2}

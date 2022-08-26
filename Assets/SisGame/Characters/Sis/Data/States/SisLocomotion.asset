@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 189d14a7f4b4f624d8a5a17e29ef1dfd, type: 3}
+  m_Name: SisLocomotion
+  m_EditorClassIdentifier: 
+  idCount: 0
+  onFixed: []
+  onUpdate:
+  - {fileID: 11400000, guid: 8f36b0bf07f9dc74885c17bbbd9e5cf9, type: 2}
+  - {fileID: 11400000, guid: 2458284c2d8a7174b8cb73a104931196, type: 2}
+  - {fileID: 11400000, guid: 6186aa196b69f9b4f9aeb6200fc73612, type: 2}
+  - {fileID: 11400000, guid: a6bdbdd206b296a45820bc5575d0ad46, type: 2}
+  - {fileID: 11400000, guid: 41efbdd6f76bb294ca683be416a23057, type: 2}
+  - {fileID: 11400000, guid: 4499cf44625dc84449cc32515ccaaebb, type: 2}
+  - {fileID: 11400000, guid: 92b6c0cc4082d564187c6695b64858f8, type: 2}
+  - {fileID: 11400000, guid: 52b38a072def7714fac66acde8239cf2, type: 2}
+  onEnter: []
+  onExit: []
+  transitions:
+  - id: 0
+    disable: 0
+    condition: {fileID: 11400000, guid: d41f33aef52094e4490a474df27debd0, type: 2}
+    targetState: {fileID: 11400000, guid: 87a67ed42fad0d749ae13588477ed0c5, type: 2}
