@@ -1,5 +1,5 @@
 # Akrat
- A Third peron shooter game with IPFD Intergration
+ A Third person shooter game with IPFs Integration and NFT minting on Polygon Mainnet
  
  1. Filecoin
 NFTMetedata for generating metadata - https://github.com/Fayhee/Akrat/blob/main/Assets/SisGame/Scripts/IPFS/NftMetaData.cs
